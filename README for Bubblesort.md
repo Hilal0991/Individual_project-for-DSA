@@ -1,6 +1,6 @@
 Name: Hilal Mohammed  
-Student ID: GRNS-0005/23 
-Course: Data Structure and Algorithm 
+Student ID: GRNS-0005/23  
+Course: Data Structure and Algorithm  
 
 Bubble Sort 
 
